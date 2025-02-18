@@ -60,7 +60,7 @@ This free course by **Cisco** provides an introduction to cybersecurity concepts
 
 #### **IBM Beginners Guide to Cybersecurity**
 This course by **IBM** focuses on developing key cybersecurity skills to tackle real-world security threats and risks. It covers essential topics like **identifying security threats, understanding encryption, safe browsing techniques, and email security best practices**. It's ideal for those interested in roles like **Cyber Analyst I, entry-level Cloud & Security Engineer, or Tech Support**.
-- [IBM Cybersecurity Analyst Course](https://www.coursera.org/learn/ibm-cybersecurity-analyst-fundamentals)
+- [IBM Cybersecurity Analyst Course](https://www.edx.org/learn/cybersecurity/ibm-beginners-guide-to-cybersecurity)
 
 ---
 
