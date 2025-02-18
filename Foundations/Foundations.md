@@ -58,9 +58,9 @@ Cybrary offers a wide range of **free cybersecurity courses**, starting from beg
 This free course by **Cisco** provides an introduction to cybersecurity concepts, real-world threats, and career paths in the field. It’s ideal for those who want a **high-level overview** of how cybersecurity works in different industries.
 - [Cisco Introduction to Cybersecurity](https://www.netacad.com/courses/intro-cybersecurity)
 
-#### **EDX Cybersecurity Fundamentals**
-A free resource offering various introductory courses from universities and companies. It’s a solid place to start understanding cybersecurity concepts like **risk management, network defense, and incident response**.
-- [EDX Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity)
+#### **IBM Beginners Guide to Cybersecurity**
+This course by **IBM** focuses on developing key cybersecurity skills to tackle real-world security threats and risks. It covers essential topics like **identifying security threats, understanding encryption, safe browsing techniques, and email security best practices**. It's ideal for those interested in roles like **Cyber Analyst I, entry-level Cloud & Security Engineer, or Tech Support**.
+- [IBM Cybersecurity Analyst Course](https://www.coursera.org/learn/ibm-cybersecurity-analyst-fundamentals)
 
 ---
 
